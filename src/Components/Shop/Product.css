@@ -1,0 +1,29 @@
+.single-product{
+    display: flex;
+    column-gap: 10px;
+    border-bottom: lightgray 1px solid;
+    padding-bottom: 10px;
+    margin-right: 5px;
+}
+.product-details{
+    padding-left: 10px;
+    text-align: left;
+}
+.product-name {
+    text-align: left;
+    font-weight: 400;
+    color: blue;
+}
+.Details{
+    display: flex;
+}
+.Details>div{
+    margin-right: 10px;
+    width: 50%;
+}
+.Features{
+margin-right: 130px;
+}
+.star{
+    color: gold;
+}

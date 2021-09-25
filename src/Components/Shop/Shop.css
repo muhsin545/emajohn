@@ -1,0 +1,29 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.product-container{
+    margin-left: 200px;
+    margin-right: 5px;
+    border-right: lightgray 1px solid;
+}
+.cart-container{
+    margin: 0 auto;
+}
+
+button{
+    background-color: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 200px;
+    height: 26px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 3px;
+    vertical-align: middle;
+}
+.input-busket{
+    background-color: lightgray;
+    padding: 10px;
+}
